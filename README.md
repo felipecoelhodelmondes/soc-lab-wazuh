@@ -1,4 +1,4 @@
-# 🛡️ SOC Home Lab — Wazuh Threat Detection
+# 🛡️ SOC Lab Wazuh— Wazuh Threat Detection
 
 Laboratório de cibersegurança desenvolvido para simular um ambiente de **SOC / Blue Team**, utilizando três máquinas virtuais para representar uma infraestrutura monitorada, uma máquina atacante e uma plataforma central de segurança.
 
